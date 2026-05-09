@@ -17,7 +17,7 @@ import MetaTrader5 as mt5
 
 SYMBOL = "XAUUSD"
 VERCEL_INGEST_URL = "https://your-app.vercel.app/api/ingest"
-INGEST_SECRET = "change-this-secret"
+INGEST_SECRET = "icool-xauusd-secret-2026"
 
 TIMEFRAMES = {
     "m1": mt5.TIMEFRAME_M1,
